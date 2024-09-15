@@ -1,0 +1,20 @@
+# Ignorar arquivos de banco de dados
+tasks.db
+
+# Ignorar arquivos de configuração do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos de ambiente virtual
+venv/
+env/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração do IDE
+.idea/
+.vscode/
+
+# Ignorar arquivos de credenciais
+*.env
