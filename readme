@@ -1,8 +1,8 @@
-#Gerenciador de Tarefas
+Gerenciador de Tarefas
 
 Um aplicativo de gerenciamento de tarefas desenvolvido em Python usando PySide6. O aplicativo permite que os usuários criem, visualizem, removam e gerenciem tarefas, além de enviar notificações por e-mail e gerar relatórios de produtividade em PDF.
 
-##Funcionalidades
+Funcionalidades
 
 - **Adicionar Tarefas**: Crie tarefas com título, descrição, prazo e status.
 - **Remover Tarefas**: Remova tarefas da lista.
@@ -11,7 +11,7 @@ Um aplicativo de gerenciamento de tarefas desenvolvido em Python usando PySide6.
 - **Interface Gráfica**: Interface moderna e amigável.
 
 
-##Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 - Python
 - PySide6 (para a interface gráfica)
@@ -19,11 +19,11 @@ Um aplicativo de gerenciamento de tarefas desenvolvido em Python usando PySide6.
 - SMTP do Gmail (para envio de e-mails)
 - ReportLab (para geração de PDFs)
 
-##Pré-requisitos
+Pré-requisitos
 
 Antes de executar o projeto, você precisa ter o Python instalado em sua máquina. Você pode baixar o Python [aqui](https://www.python.org/downloads/).
 
-###Instalação de Dependências
+Instalação de Dependências
 
 Clone o repositório e instale as dependências necessárias:
 
@@ -41,17 +41,17 @@ Para enviar e-mails usando o Gmail, você deve:
 1. Ativar a opção "Acesso a aplicativos menos seguros" na sua conta do Gmail.
 2. Se você estiver usando a autenticação de dois fatores, crie uma senha de aplicativo.
 
-##Uso
+Uso
 
 Para executar o aplicativo, use o seguinte comando:
 
 bash
 python main.py
 
-##Contribuição
+Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
 
-##Licença
+Licença
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
